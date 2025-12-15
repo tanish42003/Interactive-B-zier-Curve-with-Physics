@@ -58,10 +58,10 @@ This design clearly illustrates physical behaviour while offering intuitive cont
 ## Purpose
 This project demonstrates:
 
--A mathematical comprehension of Bézier curves
+- A mathematical comprehension of Bézier curves
 
--Simulation of physics in real time
+- Simulation of physics in real time
 
--Math, physics, input handling, and rendering are all neatly separated.
+- Math, physics, input handling, and rendering are all neatly separated.
 
 It works well as an interactive user interface demo, simulation, or graphics.
